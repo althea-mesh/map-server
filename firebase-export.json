@@ -1,0 +1,3384 @@
+{
+  "Country": {
+    "AR": {
+      "-L6nXu_miXU33FNircly": {
+        "Active": false,
+        "Emailed": true,
+        "GPS_Coordinates": {
+          "Latitude": -32.1810658,
+          "Longitude": -64.1233161
+        },
+        "Metadata": {
+          "Id": 0.37346394805397165,
+          "Timestamp": 1520209472156
+        },
+        "User_Information": {
+          "Email": "agusalexander@hotmail.com"
+        },
+        "User_Location": {
+          "City": "San Miguel",
+          "Country": "AR",
+          "Zip_Postal_Code": "1663"
+        }
+      }
+    },
+    "AU": {
+      "-L6O8tcge0fIhJUK57BE": {
+        "Active": true,
+        "GPS_Coordinates": {
+          "Latitude": -26.733333,
+          "Longitude": 152.966667
+        },
+        "Metadata": {
+          "Id": 0.8955845314969721,
+          "Timestamp": 1519766708231
+        },
+        "User_Information": {
+          "Email": "test@test.test"
+        },
+        "User_Location": {
+          "City": "Eudlo",
+          "Country": "AU",
+          "Zip_Postal_Code": "4554"
+        }
+      },
+      "-L6OD5MeYm_ypl7x4u1z": {
+        "Active": false,
+        "Emailed": true,
+        "GPS_Coordinates": {
+          "Latitude": -37.581111,
+          "Longitude": 144.713889
+        },
+        "Metadata": {
+          "Id": 0.0473305727041744,
+          "Timestamp": 1519767808868
+        },
+        "User_Information": {
+          "Email": "harrysibenaler@gmail.com"
+        },
+        "User_Location": {
+          "City": "Sunbury",
+          "Country": "AU",
+          "Zip_Postal_Code": "3429"
+        }
+      },
+      "-L6R3OO6gKCEMNZhS8xW": {
+        "Active": false,
+        "Emailed": true,
+        "GPS_Coordinates": {
+          "Latitude": -34.2800883,
+          "Longitude": 146.0455313
+        },
+        "Metadata": {
+          "Id": 0.9818564431160282,
+          "Timestamp": 1519815595692
+        },
+        "User_Information": {
+          "Email": "altheamesh.q@matqua.com"
+        },
+        "User_Location": {
+          "City": "Griffith",
+          "Country": "AU",
+          "Zip_Postal_Code": "2680"
+        }
+      },
+      "-L6WFKFNzlM8GZ4QdZga": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": -33.72136,
+          "Longitude": 151.16844
+        },
+        "Metadata": {
+          "Id": 0.21253433617716855,
+          "Timestamp": 1519902610556
+        },
+        "User_Information": {
+          "Email": "wangben3@gmail.com"
+        },
+        "User_Location": {
+          "City": "St Ives",
+          "Country": "AU",
+          "Zip_Postal_Code": "2075"
+        }
+      },
+      "-L6W_L8de0wjIFFvG5zD": {
+        "Active": false,
+        "Emailed": true,
+        "GPS_Coordinates": {
+          "Latitude": -34.9033293,
+          "Longitude": 138.571263
+        },
+        "Metadata": {
+          "Id": 0.043920774198034085,
+          "Timestamp": 1519908119244
+        },
+        "User_Information": {
+          "Email": "locky.cooper@gmail.com"
+        },
+        "User_Location": {
+          "City": "Adelaide",
+          "Country": "AU",
+          "Zip_Postal_Code": "5007"
+        }
+      },
+      "-L6e1jG9aiHuPQkgSOa5": {
+        "Active": false,
+        "Emailed": true,
+        "GPS_Coordinates": {
+          "Latitude": -37.6146129,
+          "Longitude": 144.2415697
+        },
+        "Metadata": {
+          "Id": 0.8300889695751248,
+          "Timestamp": 1520050042395
+        },
+        "User_Information": {
+          "Email": "henrywait@protonmail.com"
+        },
+        "User_Location": {
+          "City": "Ballan",
+          "Country": "AU",
+          "Zip_Postal_Code": "3342"
+        }
+      },
+      "-L6j1GNi7GPvW2mt-G4V": {
+        "Active": false,
+        "Emailed": true,
+        "GPS_Coordinates": {
+          "Latitude": -33.8847,
+          "Longitude": 151.1573
+        },
+        "Metadata": {
+          "Id": 0.5059933374180481,
+          "Timestamp": 1520133805756
+        },
+        "User_Information": {
+          "Email": "esber_88@hotmail.com"
+        },
+        "User_Location": {
+          "City": "leichhardt",
+          "Country": "AU",
+          "Zip_Postal_Code": "2040"
+        }
+      }
+    },
+    "BR": {
+      "-L6Wvyzg_D5TsZlf9u_f": {
+        "Active": false,
+        "Emailed": true,
+        "GPS_Coordinates": {
+          "Latitude": -19.7270406,
+          "Longitude": -50.265662
+        },
+        "Metadata": {
+          "Id": 0.8889292668205384,
+          "Timestamp": 1519914053616
+        },
+        "User_Information": {
+          "Email": "marcos@mrladeia.com"
+        },
+        "User_Location": {
+          "City": "Iturama",
+          "Country": "BR",
+          "Zip_Postal_Code": "38280000"
+        }
+      },
+      "-L6b5PLeKScg8dfnC0R1": {
+        "Active": false,
+        "Emailed": true,
+        "GPS_Coordinates": {
+          "Latitude": -19.9153243,
+          "Longitude": -43.9403638
+        },
+        "Metadata": {
+          "Id": 0.613335931620536,
+          "Timestamp": 1520000673393
+        },
+        "User_Information": {
+          "Email": "fiatjaf@gmail.com"
+        },
+        "User_Location": {
+          "City": "Belo Horizonte",
+          "Country": "BR",
+          "Zip_Postal_Code": "30170120"
+        }
+      },
+      "-L82WfdR8acfzicBbtJp": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": -23.5074298,
+          "Longitude": -46.6635268
+        },
+        "Metadata": {
+          "Id": 0.7856620064246655,
+          "Timestamp": 1521551326457
+        },
+        "User_Information": {
+          "Email": "ricardo@ricardobilo.com"
+        },
+        "User_Location": {
+          "City": "São Paulo",
+          "Country": "BR",
+          "Zip_Postal_Code": "02517-030"
+        }
+      }
+    },
+    "CA": {
+      "-L6XV4iI0OAxw-46ONEB": {
+        "Active": false,
+        "Emailed": true,
+        "GPS_Coordinates": {
+          "Latitude": 53.4509261,
+          "Longitude": -113.5289593
+        },
+        "Metadata": {
+          "Id": 0.8471932808113549,
+          "Timestamp": 1519923518453
+        },
+        "User_Information": {
+          "Email": "arturodelia@gmail.com"
+        },
+        "User_Location": {
+          "City": "Edmonton",
+          "Country": "CA",
+          "Zip_Postal_Code": "T6J 5N1"
+        }
+      },
+      "-L6XY8RfvXeQz_w97dOk": {
+        "Active": false,
+        "Emailed": true,
+        "GPS_Coordinates": {
+          "Latitude": 53.4629062,
+          "Longitude": -113.4412191
+        },
+        "Metadata": {
+          "Id": 0.2687749185063941,
+          "Timestamp": 1519924320144
+        },
+        "User_Information": {
+          "Email": "stubleu@gmail.com"
+        },
+        "User_Location": {
+          "City": "Edmonton",
+          "Country": "CA",
+          "Zip_Postal_Code": "t6k 2k9"
+        }
+      },
+      "-L6_Vyuab61--JeVgKPH": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 49.2880423,
+          "Longitude": -123.1277957
+        },
+        "Metadata": {
+          "Id": 0.6802641603534425,
+          "Timestamp": 1519974084457
+        },
+        "User_Information": {
+          "Email": "kelseyh@gmail.com"
+        },
+        "User_Location": {
+          "City": "Vancouver",
+          "Country": "CA",
+          "Zip_Postal_Code": "v6e4r9"
+        }
+      },
+      "-L6bSzCXbrbNeJ2T5tjl": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 43.640526,
+          "Longitude": -79.3949037
+        },
+        "Metadata": {
+          "Id": 0.23511115140656247,
+          "Timestamp": 1520006853674
+        },
+        "User_Information": {
+          "Email": "imran@cryptoglobal.io"
+        },
+        "User_Location": {
+          "City": "Toronto",
+          "Country": "CA",
+          "Zip_Postal_Code": "M5V3Z5"
+        }
+      },
+      "-L6jccRzXKSLOHZ1t1dM": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 48.4528364,
+          "Longitude": -123.3884071
+        },
+        "Metadata": {
+          "Id": 0.3699741329037405,
+          "Timestamp": 1520143861656
+        },
+        "User_Information": {
+          "Email": "ben1120@gmail.com"
+        },
+        "User_Location": {
+          "City": "Victoria",
+          "Country": "CA",
+          "Zip_Postal_Code": "V8Z3V8"
+        }
+      },
+      "-L7m3G-VqGfZl1wz82-e": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 49.3441012,
+          "Longitude": -123.0275402
+        },
+        "Metadata": {
+          "Id": 0.8545685626794759,
+          "Timestamp": 1521258402038
+        },
+        "User_Information": {
+          "Email": "asoltys@gmail.com"
+        },
+        "User_Location": {
+          "City": "North Vancouver",
+          "Country": "CA",
+          "Zip_Postal_Code": "V7K 2X1"
+        }
+      },
+      "-L8Sfx6yMHdy5hv6vw1E": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 43.8562458,
+          "Longitude": -79.4348739
+        },
+        "Metadata": {
+          "Id": 0.13961575511797952,
+          "Timestamp": 1521990226595
+        },
+        "User_Information": {
+          "Email": "test@test.com"
+        },
+        "User_Location": {
+          "City": "Richmond Hill",
+          "Country": "CA",
+          "Zip_Postal_Code": "L4C 5G2"
+        }
+      }
+    },
+    "CM": {
+      "-L6gaRMVi79eRW8D6Ymr": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 3.890468199999999,
+          "Longitude": 11.5049163
+        },
+        "Metadata": {
+          "Id": 0.9153563873966146,
+          "Timestamp": 1520092956354
+        },
+        "User_Information": {
+          "Email": "kangall@umich.edu"
+        },
+        "User_Location": {
+          "City": "Yaounde",
+          "Country": "CM",
+          "Zip_Postal_Code": "Bastos"
+        }
+      },
+      "-L6gauZBlXAuZCPYyjpY": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 3.890468199999999,
+          "Longitude": 11.5049163
+        },
+        "Metadata": {
+          "Id": 0.39157888942931596,
+          "Timestamp": 1520093080018
+        },
+        "User_Information": {
+          "Email": "kangall@umich.edu"
+        },
+        "User_Location": {
+          "City": "Yaounde",
+          "Country": "CM",
+          "Zip_Postal_Code": "Bastos"
+        }
+      }
+    },
+    "CN": {
+      "-L6RhwUkoFqoX00JtkDf": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 34.2032357,
+          "Longitude": 108.9067855
+        },
+        "Metadata": {
+          "Id": 0.30719500262833654,
+          "Timestamp": 1519826487557
+        },
+        "User_Information": {
+          "Email": "kaichaosuna@gmail.com"
+        },
+        "User_Location": {
+          "City": "Xi'an",
+          "Country": "CN",
+          "Zip_Postal_Code": "710065"
+        }
+      },
+      "-L6Rs9wJVQSHldCxEok5": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 30.4559313,
+          "Longitude": 106.6331999
+        },
+        "Metadata": {
+          "Id": 0.9378602337848014,
+          "Timestamp": 1519829168155
+        },
+        "User_Information": {
+          "Email": "hqcm2013@gmail.com"
+        },
+        "User_Location": {
+          "City": "guang'an",
+          "Country": "CN",
+          "Zip_Postal_Code": "638000"
+        }
+      },
+      "-L8QPXD7u-Tk2JmMp1bK": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 29.5396973,
+          "Longitude": 106.5314247
+        },
+        "Metadata": {
+          "Id": 0.58578392598188,
+          "Timestamp": 1521952107161
+        },
+        "User_Information": {
+          "Email": "changlelao@protonmail.com"
+        },
+        "User_Location": {
+          "City": "ChongQing",
+          "Country": "CN",
+          "Zip_Postal_Code": "400000"
+        }
+      }
+    },
+    "ES": {
+      "-L6WIQyDZ37c0SzitgMU": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 41.5789778,
+          "Longitude": 2.5049414
+        },
+        "Metadata": {
+          "Id": 0.8668540983146908,
+          "Timestamp": 1519903424498
+        },
+        "User_Information": {
+          "Email": "victorbjelkholm@gmail.com"
+        },
+        "User_Location": {
+          "City": "Barcelona",
+          "Country": "ES",
+          "Zip_Postal_Code": "08394"
+        }
+      }
+    },
+    "GB": {
+      "-L6WXeks-yZJnhVWg3QI": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 52.290557,
+          "Longitude": -1.540765
+        },
+        "Metadata": {
+          "Id": 0.7843113718724826,
+          "Timestamp": 1519907417256
+        },
+        "User_Information": {
+          "Email": "carl@cabm.co.uk"
+        },
+        "User_Location": {
+          "City": "Leamington Spa",
+          "Country": "GB",
+          "Zip_Postal_Code": "CV325AQ"
+        }
+      },
+      "-L6b-COLHMGrvysO4aBy": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 51.34491329999999,
+          "Longitude": 0.7539883
+        },
+        "Metadata": {
+          "Id": 0.48612226916299184,
+          "Timestamp": 1519999047258
+        },
+        "User_Information": {
+          "Email": "mttcvndr@gmail.com"
+        },
+        "User_Location": {
+          "City": "Sittingbourne",
+          "Country": "GB",
+          "Zip_Postal_Code": "ME10 3QN"
+        }
+      },
+      "-L76eVr8nlkT322tpcdm": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 51.6987,
+          "Longitude": 0.8792563999999999
+        },
+        "Metadata": {
+          "Id": 0.5760577116079304,
+          "Timestamp": 1520547008000
+        },
+        "User_Information": {
+          "Email": "tommovernau@gmail.com"
+        },
+        "User_Location": {
+          "City": "Southminster",
+          "Country": "GB",
+          "Zip_Postal_Code": "CM0 7SH"
+        }
+      },
+      "-L7GzGm8NaS3TVyuJ3Wm": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 52.4934006,
+          "Longitude": -1.9315715
+        },
+        "Metadata": {
+          "Id": 0.07644992741869339,
+          "Timestamp": 1520720223489
+        },
+        "User_Information": {
+          "Email": "daniel.hanczyc@hotmail.co"
+        },
+        "User_Location": {
+          "City": "Birmingham",
+          "Country": "GB",
+          "Zip_Postal_Code": "B185RP"
+        }
+      },
+      "-L7dP9nLX9POt10gUNCn": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 55.826082,
+          "Longitude": -4.2871134
+        },
+        "Metadata": {
+          "Id": 0.7350478139457042,
+          "Timestamp": 1521113148798
+        },
+        "User_Information": {
+          "Email": "tehscunner@gmail.com"
+        },
+        "User_Location": {
+          "City": "Glasgow",
+          "Country": "GB",
+          "Zip_Postal_Code": "G41 3PT"
+        }
+      }
+    },
+    "GH": {
+      "-L6gebJtUqFdIH5sO5dD": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 5.5630028,
+          "Longitude": -0.2115709
+        },
+        "Metadata": {
+          "Id": 0.8234522730375253,
+          "Timestamp": 1520094049791
+        },
+        "User_Information": {
+          "Email": "kangall@umich.edu"
+        },
+        "User_Location": {
+          "City": "Accra",
+          "Country": "GH",
+          "Zip_Postal_Code": "adabraka"
+        }
+      }
+    },
+    "IN": {
+      "-L79KUtgAx1zG29zHblJ": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 17.6997875,
+          "Longitude": 83.29608309999999
+        },
+        "Metadata": {
+          "Id": 0.31407454932678935,
+          "Timestamp": 1520591830702
+        },
+        "User_Information": {
+          "Email": "vizagite@gmail.com"
+        },
+        "User_Location": {
+          "City": "Vizag",
+          "Country": "IN",
+          "Zip_Postal_Code": "530001"
+        }
+      },
+      "-L7zpaDwMpD9rUvxj4PP": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 13.0140114,
+          "Longitude": 77.56576199999999
+        },
+        "Metadata": {
+          "Id": 0.6835755942595607,
+          "Timestamp": 1521489437816
+        },
+        "User_Information": {
+          "Email": "gijoge@gmail.com"
+        },
+        "User_Location": {
+          "City": "Bangalore",
+          "Country": "IN",
+          "Zip_Postal_Code": "560012"
+        }
+      },
+      "-L7zpyxKwBug9nzf2mdH": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 13.0140114,
+          "Longitude": 77.56576199999999
+        },
+        "Metadata": {
+          "Id": 0.8383295653355913,
+          "Timestamp": 1521489538917
+        },
+        "User_Information": {
+          "Email": "gijoge@gmail.com"
+        },
+        "User_Location": {
+          "City": "Bangalore",
+          "Country": "IN",
+          "Zip_Postal_Code": "560012"
+        }
+      },
+      "-L7zrWIHTWovYdDIOUMg": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 10.0317483,
+          "Longitude": 76.30872819999999
+        },
+        "Metadata": {
+          "Id": 0.5829558968137665,
+          "Timestamp": 1521489941731
+        },
+        "User_Information": {
+          "Email": "gibugeor@gmail.com"
+        },
+        "User_Location": {
+          "City": "Kochi",
+          "Country": "IN",
+          "Zip_Postal_Code": "682024"
+        }
+      }
+    },
+    "IT": {
+      "-L7P5o5QJ2uMhpVgpvuz": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 41.99670039999999,
+          "Longitude": 12.0973997
+        },
+        "Metadata": {
+          "Id": 0.556809512395366,
+          "Timestamp": 1520856419977
+        },
+        "User_Information": {
+          "Email": "marco.polverari@noinet.it"
+        },
+        "User_Location": {
+          "City": "Cerveteri",
+          "Country": "IT",
+          "Zip_Postal_Code": "00052"
+        }
+      }
+    },
+    "JP": {
+      "-L6lvC68S4WrZdStySpm": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 40.6570587,
+          "Longitude": 140.8187887
+        },
+        "Metadata": {
+          "Id": 0.04627358479798582,
+          "Timestamp": 1520182284756
+        },
+        "User_Information": {
+          "Email": "SuzukiYuki97@gmail.com"
+        },
+        "User_Location": {
+          "City": "Aomori",
+          "Country": "JP",
+          "Zip_Postal_Code": "030-0111"
+        }
+      }
+    },
+    "MX": {
+      "-L6_IFLMj_U4ksBvGPUS": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 32.5144969,
+          "Longitude": -117.0065804
+        },
+        "Metadata": {
+          "Id": 0.8082011923398815,
+          "Timestamp": 1519970485857
+        },
+        "User_Information": {
+          "Email": "bajatel@gmail.com"
+        },
+        "User_Location": {
+          "City": "Tijuana ",
+          "Country": "MX",
+          "Zip_Postal_Code": "22014"
+        }
+      }
+    },
+    "NL": {
+      "-L6vcM3097KR4KP7OdmQ": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 52.3575036,
+          "Longitude": 4.8878745
+        },
+        "Metadata": {
+          "Id": 0.7242398834382715,
+          "Timestamp": 1520345117073
+        },
+        "User_Information": {
+          "Email": "Jonathan@protozoan.nl"
+        },
+        "User_Location": {
+          "City": "Amsterdam",
+          "Country": "NL",
+          "Zip_Postal_Code": "1072be"
+        }
+      }
+    },
+    "NO": {
+      "-L6tq3dZCGeqsHtBVHQu": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 68.7560326,
+          "Longitude": 16.4873596
+        },
+        "Metadata": {
+          "Id": 0.7191887320897108,
+          "Timestamp": 1520315159891
+        },
+        "User_Information": {
+          "Email": "diazjterlecki@gmail.com"
+        },
+        "User_Location": {
+          "City": "Harstad",
+          "Country": "NO",
+          "Zip_Postal_Code": "9414"
+        }
+      }
+    },
+    "PG": {
+      "-L6lI6iBTJqG3JVqsLKr": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": -9.4780123,
+          "Longitude": 147.1506542
+        },
+        "Metadata": {
+          "Id": 0.33524094622495815,
+          "Timestamp": 1520171777106
+        },
+        "User_Information": {
+          "Email": "cryptospy37@gmail.com"
+        },
+        "User_Location": {
+          "City": "Port Moresby",
+          "Country": "PG",
+          "Zip_Postal_Code": "675"
+        }
+      },
+      "-L6lI_TkHX3WYXI_NYW2": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": -9.4780123,
+          "Longitude": 147.1506542
+        },
+        "Metadata": {
+          "Id": 0.782374143587635,
+          "Timestamp": 1520171898999
+        },
+        "User_Information": {
+          "Email": "cryptospy37@gmail.com"
+        },
+        "User_Location": {
+          "City": "Port Moresby",
+          "Country": "PG",
+          "Zip_Postal_Code": "675"
+        }
+      },
+      "-L6lUAwq08gfaluPtVUc": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": -9.4780123,
+          "Longitude": 147.1506542
+        },
+        "Metadata": {
+          "Id": 0.36314486524854095,
+          "Timestamp": 1520174940157
+        },
+        "User_Information": {
+          "Email": "cryptospy37@gmail.com"
+        },
+        "User_Location": {
+          "City": "Port Moresby",
+          "Country": "PG",
+          "Zip_Postal_Code": "675"
+        }
+      }
+    },
+    "RU": {
+      "-L791oxBiFKp0a7p9uVG": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 59.9236603,
+          "Longitude": 30.3301071
+        },
+        "Metadata": {
+          "Id": 0.4304526508175386,
+          "Timestamp": 1520586936331
+        },
+        "User_Information": {
+          "Email": "kabaliero72@mail.ru"
+        },
+        "User_Location": {
+          "City": "Sankt-Peterburg",
+          "Country": "RU",
+          "Zip_Postal_Code": "191180"
+        }
+      }
+    },
+    "SE": {
+      "-L87lSUBDCusPMoVhW2l": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 59.3097514,
+          "Longitude": 18.1587119
+        },
+        "Metadata": {
+          "Id": 0.2752084734399234,
+          "Timestamp": 1521639348396
+        },
+        "User_Information": {
+          "Email": "erik.joe@protonmail.com"
+        },
+        "User_Location": {
+          "City": "Nacka",
+          "Country": "SE",
+          "Zip_Postal_Code": "131 40"
+        }
+      }
+    },
+    "US": {
+      "-L6O8TfmdnzwdiZ-plSM": {
+        "Active": true,
+        "GPS_Coordinates": {
+          "Latitude": 46.1012219,
+          "Longitude": -123.2067863
+        },
+        "Metadata": {
+          "Id": 0.2136472279347572,
+          "Timestamp": 1519766602662
+        },
+        "User_Information": {
+          "Email": "test@test.test"
+        },
+        "User_Location": {
+          "City": "Clatskanie",
+          "Country": "US",
+          "Zip_Postal_Code": "97016"
+        }
+      },
+      "-L6O96yUgSAcYcKzY0C1": {
+        "Active": true,
+        "GPS_Coordinates": {
+          "Latitude": 37.2358078,
+          "Longitude": -121.9623751
+        },
+        "Metadata": {
+          "Id": 0.9651728798693986,
+          "Timestamp": 1519766767028
+        },
+        "User_Information": {
+          "Email": "test@test.test"
+        },
+        "User_Location": {
+          "City": "Los Gatos",
+          "Country": "US",
+          "Zip_Postal_Code": "95033"
+        }
+      },
+      "-L6O9eIG83SRgs5viw0d": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 37.7485824,
+          "Longitude": -122.4184108
+        },
+        "Metadata": {
+          "Id": 0.33374302690991065,
+          "Timestamp": 1519766910193
+        },
+        "User_Information": {
+          "Email": "test@test.test"
+        },
+        "User_Location": {
+          "City": "San Francsico",
+          "Country": "US",
+          "Zip_Postal_Code": "94110"
+        }
+      },
+      "-L6ODL5DCI3D7g4UpLkV": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 37.8683209,
+          "Longitude": -122.2703955
+        },
+        "Metadata": {
+          "Id": 0.149502252747574,
+          "Timestamp": 1519767873356
+        },
+        "User_Information": {
+          "Email": "test@test.com"
+        },
+        "User_Location": {
+          "City": "Berkeley ",
+          "Country": "US",
+          "Zip_Postal_Code": "94701"
+        }
+      },
+      "-L6OtSpQPgzNuDEeSdOj": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 42.1751002,
+          "Longitude": -70.9494899
+        },
+        "Metadata": {
+          "Id": 0.811804394150117,
+          "Timestamp": 1519779175971
+        },
+        "User_Information": {
+          "Email": "jhobbs@almost-there.org"
+        },
+        "User_Location": {
+          "City": "South Weymouth",
+          "Country": "US",
+          "Zip_Postal_Code": "02190"
+        }
+      },
+      "-L6PFZcu1rz5F3wqz603": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 29.4595699,
+          "Longitude": -98.49522280000001
+        },
+        "Metadata": {
+          "Id": 0.45514641306574743,
+          "Timestamp": 1519785233057
+        },
+        "User_Information": {
+          "Email": "dsmith5@trinity.edu"
+        },
+        "User_Location": {
+          "City": "San Antonio",
+          "Country": "US",
+          "Zip_Postal_Code": "78212"
+        }
+      },
+      "-L6Q69PZg_EcGq4Cnm3R": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 32.97602940000001,
+          "Longitude": -96.7386946
+        },
+        "Metadata": {
+          "Id": 0.19476511968220045,
+          "Timestamp": 1519799543560
+        },
+        "User_Information": {
+          "Email": "buterajay@gmail.com"
+        },
+        "User_Location": {
+          "City": "Dallas",
+          "Country": "US",
+          "Zip_Postal_Code": "75080"
+        }
+      },
+      "-L6QBCKhYFELHXPTKEnH": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 47.2150945,
+          "Longitude": -123.1007066
+        },
+        "Metadata": {
+          "Id": 0.9437269347650918,
+          "Timestamp": 1519800866262
+        },
+        "User_Information": {
+          "Email": "joeyarnoldvn@gmail.com"
+        },
+        "User_Location": {
+          "City": "Shelton",
+          "Country": "US",
+          "Zip_Postal_Code": "98584"
+        }
+      },
+      "-L6YcyJd9njoU1yVpGpS": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 47.6600087,
+          "Longitude": -122.3425575
+        },
+        "Metadata": {
+          "Id": 0.9253298491789692,
+          "Timestamp": 1519942624557
+        },
+        "User_Information": {
+          "Email": "phillip.pasqual@gmail.com"
+        },
+        "User_Location": {
+          "City": "Seattle",
+          "Country": "US",
+          "Zip_Postal_Code": "98103"
+        }
+      },
+      "-L6Yd7JPfpvydvlvKzAJ": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 37.2295733,
+          "Longitude": -80.4139393
+        },
+        "Metadata": {
+          "Id": 0.19111138156874086,
+          "Timestamp": 1519942665555
+        },
+        "User_Information": {
+          "Email": "ccastillo93@gmail.com"
+        },
+        "User_Location": {
+          "City": "blacksburg",
+          "Country": "US",
+          "Zip_Postal_Code": "24060"
+        }
+      },
+      "-L6YeSeL5JhCO5Jl6mAV": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 40.6385229,
+          "Longitude": -74.0153231
+        },
+        "Metadata": {
+          "Id": 0.06991773359529208,
+          "Timestamp": 1519943015065
+        },
+        "User_Information": {
+          "Email": "cbottego@gmail.com"
+        },
+        "User_Location": {
+          "City": "Brooklyn",
+          "Country": "US",
+          "Zip_Postal_Code": "11220"
+        }
+      },
+      "-L6YikhNqHVyTFe46ddx": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 39.7845048,
+          "Longitude": -104.9797753
+        },
+        "Metadata": {
+          "Id": 0.6428228996817884,
+          "Timestamp": 1519944141756
+        },
+        "User_Information": {
+          "Email": "kdunn926@gmail.com"
+        },
+        "User_Location": {
+          "City": "Denver",
+          "Country": "US",
+          "Zip_Postal_Code": "80216"
+        }
+      },
+      "-L6YmnAWZYVg_hU_Y_M_": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 42.4349152,
+          "Longitude": -83.15417959999999
+        },
+        "Metadata": {
+          "Id": 0.8113839713646607,
+          "Timestamp": 1519945200356
+        },
+        "User_Information": {
+          "Email": "nate@bitdepthmedia.com"
+        },
+        "User_Location": {
+          "City": "Detroit",
+          "Country": "US",
+          "Zip_Postal_Code": "48221"
+        }
+      },
+      "-L6Yr7WenK-r1xR0QMmU": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 33.6805008,
+          "Longitude": -96.7279918
+        },
+        "Metadata": {
+          "Id": 0.04325407219505739,
+          "Timestamp": 1519946336456
+        },
+        "User_Information": {
+          "Email": "owenh000@gmail.com"
+        },
+        "User_Location": {
+          "City": "Sherman",
+          "Country": "US",
+          "Zip_Postal_Code": "75092"
+        }
+      },
+      "-L6Z5u8B2pO-EggfL66H": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 33.4525494,
+          "Longitude": -111.7674282
+        },
+        "Metadata": {
+          "Id": 0.4265196686808197,
+          "Timestamp": 1519950472257
+        },
+        "User_Information": {
+          "Email": "stronggarner66@gmail.com"
+        },
+        "User_Location": {
+          "City": "Mesa",
+          "Country": "US",
+          "Zip_Postal_Code": "85213"
+        }
+      },
+      "-L6ZCNbxjBUEhRWoVirk": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 42.36475590000001,
+          "Longitude": -71.1032591
+        },
+        "Metadata": {
+          "Id": 0.9738642743084822,
+          "Timestamp": 1519952169672
+        },
+        "User_Information": {
+          "Email": "dan.pk.bar@gmail.com"
+        },
+        "User_Location": {
+          "City": "Cambridge ",
+          "Country": "US",
+          "Zip_Postal_Code": "02139"
+        }
+      },
+      "-L6ZFu7CZD-MctVe7CHi": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 35.5692059,
+          "Longitude": -82.6159271
+        },
+        "Metadata": {
+          "Id": 0.9401492611467905,
+          "Timestamp": 1519953093355
+        },
+        "User_Information": {
+          "Email": "somlor@eml.cc"
+        },
+        "User_Location": {
+          "City": "Asheville, NC",
+          "Country": "US",
+          "Zip_Postal_Code": "28806"
+        }
+      },
+      "-L6ZHvEZWkc3qs6h5DKY": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 32.8283259,
+          "Longitude": -117.255854
+        },
+        "Metadata": {
+          "Id": 0.035162192818988025,
+          "Timestamp": 1519953622255
+        },
+        "User_Information": {
+          "Email": "kevinmhealy@icloud.com"
+        },
+        "User_Location": {
+          "City": "La Jolla",
+          "Country": "US",
+          "Zip_Postal_Code": "92037"
+        }
+      },
+      "-L6ZZoJL55DF-sbNjp_B": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 25.6697865,
+          "Longitude": -80.4660256
+        },
+        "Metadata": {
+          "Id": 0.7314024886933037,
+          "Timestamp": 1519958312356
+        },
+        "User_Information": {
+          "Email": "pzmaven@gmail.com"
+        },
+        "User_Location": {
+          "City": "Miami",
+          "Country": "US",
+          "Zip_Postal_Code": "33196"
+        }
+      },
+      "-L6ZegAgd80kNrFlgHXz": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 40.4258686,
+          "Longitude": -86.90806549999999
+        },
+        "Metadata": {
+          "Id": 0.7139941915670596,
+          "Timestamp": 1519959851858
+        },
+        "User_Information": {
+          "Email": "mattbstanciu@gmail.com"
+        },
+        "User_Location": {
+          "City": "West Lafayette",
+          "Country": "US",
+          "Zip_Postal_Code": "47906"
+        }
+      },
+      "-L6ZomBVp9M-iA2hUJoK": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 40.8017214,
+          "Longitude": -83.51048209999999
+        },
+        "Metadata": {
+          "Id": 0.2915510421852243,
+          "Timestamp": 1519962497923
+        },
+        "User_Information": {
+          "Email": "oner@gmx.com"
+        },
+        "User_Location": {
+          "City": "Forest",
+          "Country": "US",
+          "Zip_Postal_Code": "45843"
+        }
+      },
+      "-L6Zua2R8QZ4Lw8rE_KX": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 40.1724007,
+          "Longitude": -105.1960795
+        },
+        "Metadata": {
+          "Id": 0.6880507565336531,
+          "Timestamp": 1519964021255
+        },
+        "User_Information": {
+          "Email": "jackmorrison1@gmail.com"
+        },
+        "User_Location": {
+          "City": "Boulder County",
+          "Country": "US",
+          "Zip_Postal_Code": "80503"
+        }
+      },
+      "-L6_LZ-EWlokcuwo9e1U": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 26.4588273,
+          "Longitude": -81.7622951
+        },
+        "Metadata": {
+          "Id": 0.014539777425460088,
+          "Timestamp": 1519971352793
+        },
+        "User_Information": {
+          "Email": "k.asimov2045@gmail.com"
+        },
+        "User_Location": {
+          "City": "Fort Myers ",
+          "Country": "US",
+          "Zip_Postal_Code": "33965"
+        }
+      },
+      "-L6_ZPvSCsMfTqdgZDim": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 45.5517361,
+          "Longitude": -122.5522483
+        },
+        "Metadata": {
+          "Id": 0.8385581922412833,
+          "Timestamp": 1519974985537
+        },
+        "User_Information": {
+          "Email": "georgewebbpdx@gmail.com"
+        },
+        "User_Location": {
+          "City": "Portland",
+          "Country": "US",
+          "Zip_Postal_Code": "97220"
+        }
+      },
+      "-L6aedYH9lT6brVZu9IT": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 48.1987118,
+          "Longitude": -122.1251418
+        },
+        "Metadata": {
+          "Id": 0.4814170920878169,
+          "Timestamp": 1519993395610
+        },
+        "User_Information": {
+          "Email": "cconway@valiance.co"
+        },
+        "User_Location": {
+          "City": "Arlington",
+          "Country": "US",
+          "Zip_Postal_Code": "98223"
+        }
+      },
+      "-L6ashkZjenD4NpTriSb": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 40.6137658,
+          "Longitude": -74.0153231
+        },
+        "Metadata": {
+          "Id": 0.6653894213959282,
+          "Timestamp": 1519997082664
+        },
+        "User_Information": {
+          "Email": "sean.chinery@gmail.com"
+        },
+        "User_Location": {
+          "City": "Brooklyn",
+          "Country": "US",
+          "Zip_Postal_Code": "11228"
+        }
+      },
+      "-L6bNRxLXIRkXjd-mYnB": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 40.7769059,
+          "Longitude": -73.9800645
+        },
+        "Metadata": {
+          "Id": 0.049909456878624914,
+          "Timestamp": 1520005402664
+        },
+        "User_Information": {
+          "Email": "eric.x.tang@gmail.com"
+        },
+        "User_Location": {
+          "City": "New York",
+          "Country": "US",
+          "Zip_Postal_Code": "10023"
+        }
+      },
+      "-L6bwhx9umYYzJS7P62h": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 30.0817231,
+          "Longitude": -97.8428927
+        },
+        "Metadata": {
+          "Id": 0.4647002541458054,
+          "Timestamp": 1520014909356
+        },
+        "User_Information": {
+          "Email": "dustin@airshp.com"
+        },
+        "User_Location": {
+          "City": "Buda",
+          "Country": "US",
+          "Zip_Postal_Code": "78610"
+        }
+      },
+      "-L6cDRUiGOMjRVEcZ_Q_": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 29.8265052,
+          "Longitude": -95.46729619999999
+        },
+        "Metadata": {
+          "Id": 0.648421166547555,
+          "Timestamp": 1520019556470
+        },
+        "User_Information": {
+          "Email": "nathandeveritt@gmail.com"
+        },
+        "User_Location": {
+          "City": "Houston",
+          "Country": "US",
+          "Zip_Postal_Code": "77092"
+        }
+      },
+      "-L6fYk6uhMDI2KKhW4e-": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 45.0155422,
+          "Longitude": -93.37679759999999
+        },
+        "Metadata": {
+          "Id": 0.1446338345318452,
+          "Timestamp": 1520075473412
+        },
+        "User_Information": {
+          "Email": "mjw3133ind@gmail.com"
+        },
+        "User_Location": {
+          "City": "New Hope",
+          "Country": "US",
+          "Zip_Postal_Code": "55427"
+        }
+      },
+      "-L6iKZ2c8JnyHj0xS9ML": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 38.8454321,
+          "Longitude": -77.3209555
+        },
+        "Metadata": {
+          "Id": 0.7834577437607884,
+          "Timestamp": 1520122085905
+        },
+        "User_Information": {
+          "Email": "mohsen.ghajar@gmail.com"
+        },
+        "User_Location": {
+          "City": "Fairfax",
+          "Country": "US",
+          "Zip_Postal_Code": "22030"
+        }
+      },
+      "-L6iL126g3ZreFGvrhGZ": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 38.8454321,
+          "Longitude": -77.3209555
+        },
+        "Metadata": {
+          "Id": 0.14446285844918227,
+          "Timestamp": 1520122208761
+        },
+        "User_Information": {
+          "Email": "mohsen.ghajar@gmail.com"
+        },
+        "User_Location": {
+          "City": "Fairfax",
+          "Country": "US",
+          "Zip_Postal_Code": "22030"
+        }
+      },
+      "-L6iLD9lyTdyzkmUUSbL": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 38.8454321,
+          "Longitude": -77.3209555
+        },
+        "Metadata": {
+          "Id": 0.5286325997491808,
+          "Timestamp": 1520122258393
+        },
+        "User_Information": {
+          "Email": "mohsen.ghajar@gmail.com"
+        },
+        "User_Location": {
+          "City": "Fairfax",
+          "Country": "US",
+          "Zip_Postal_Code": "22030"
+        }
+      },
+      "-L6luSXRm8SioFGgnF1G": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 45.3560738,
+          "Longitude": -92.6335386
+        },
+        "Metadata": {
+          "Id": 0.8403588379537956,
+          "Timestamp": 1520182089992
+        },
+        "User_Information": {
+          "Email": "BrandonDSchumann@gmail.co"
+        },
+        "User_Location": {
+          "City": "Dresser, Wisconsin",
+          "Country": "US",
+          "Zip_Postal_Code": "54009"
+        }
+      },
+      "-L6lxrMiolSoMPY3USis": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 47.7542651,
+          "Longitude": -122.1634581
+        },
+        "Metadata": {
+          "Id": 0.3279700911801664,
+          "Timestamp": 1520182982159
+        },
+        "User_Information": {
+          "Email": "turnero@live.com"
+        },
+        "User_Location": {
+          "City": "Woodinville",
+          "Country": "US",
+          "Zip_Postal_Code": "98072"
+        }
+      },
+      "-L6mvL_4l5GqAt8duwtj": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 40.071222,
+          "Longitude": -74.86488729999999
+        },
+        "Metadata": {
+          "Id": 0.28233919829068843,
+          "Timestamp": 1520199101338
+        },
+        "User_Information": {
+          "Email": "steve@gotsteve.com"
+        },
+        "User_Location": {
+          "City": "BURLINGTON",
+          "Country": "US",
+          "Zip_Postal_Code": "08016"
+        }
+      },
+      "-L6nLCuTKhblmpwm6iiU": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 29.5100354,
+          "Longitude": -81.2188355
+        },
+        "Metadata": {
+          "Id": 0.0467457843748591,
+          "Timestamp": 1520206143333
+        },
+        "User_Information": {
+          "Email": "numbers@ox.io"
+        },
+        "User_Location": {
+          "City": "Palm Coast",
+          "Country": "US",
+          "Zip_Postal_Code": "32164"
+        }
+      },
+      "-L6suBNknfqXMQvqD89U": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 37.2707022,
+          "Longitude": -76.7074571
+        },
+        "Metadata": {
+          "Id": 0.5933280933904017,
+          "Timestamp": 1520299465323
+        },
+        "User_Information": {
+          "Email": "futuramafanboy3008@gmail"
+        },
+        "User_Location": {
+          "City": "Williamsburg",
+          "Country": "US",
+          "Zip_Postal_Code": "23188"
+        }
+      },
+      "-L72eR8R96ADddMpMNL_": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 40.1017582,
+          "Longitude": -88.2753144
+        },
+        "Metadata": {
+          "Id": 0.3904204220067031,
+          "Timestamp": 1520479879962
+        },
+        "User_Information": {
+          "Email": "kkanwar2@illinois.edu"
+        },
+        "User_Location": {
+          "City": "Champaign",
+          "Country": "US",
+          "Zip_Postal_Code": "61821"
+        }
+      },
+      "-L76ZlTE9Oq7niVreXZv": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 47.6288591,
+          "Longitude": -122.3456919
+        },
+        "Metadata": {
+          "Id": 0.14745632980939516,
+          "Timestamp": 1520545503246
+        },
+        "User_Information": {
+          "Email": "d_burpee@hotmail.com"
+        },
+        "User_Location": {
+          "City": "Seattle",
+          "Country": "US",
+          "Zip_Postal_Code": "98109"
+        }
+      },
+      "-L77FJH2nU-wnweUFPrK": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 47.49930519999999,
+          "Longitude": -122.3658208
+        },
+        "Metadata": {
+          "Id": 0.43536580649419077,
+          "Timestamp": 1520556920648
+        },
+        "User_Information": {
+          "Email": "tomohern@gmail.com"
+        },
+        "User_Location": {
+          "City": "Seattle",
+          "Country": "US",
+          "Zip_Postal_Code": "98146"
+        }
+      },
+      "-L77Jw0JW1kmMsINrp3E": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 47.5412021,
+          "Longitude": -122.2675626
+        },
+        "Metadata": {
+          "Id": 0.4928650579475391,
+          "Timestamp": 1520558129313
+        },
+        "User_Information": {
+          "Email": "paysinger@gmail.com"
+        },
+        "User_Location": {
+          "City": "Seattle",
+          "Country": "US",
+          "Zip_Postal_Code": "98118"
+        }
+      },
+      "-L77n_ImR7rkWr9WPKXD": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 47.6614244,
+          "Longitude": -122.2683743
+        },
+        "Metadata": {
+          "Id": 5.106406160448884e-5,
+          "Timestamp": 1520566163060
+        },
+        "User_Information": {
+          "Email": "gus@guscatalano.com"
+        },
+        "User_Location": {
+          "City": "Seattle",
+          "Country": "US",
+          "Zip_Postal_Code": "98105"
+        }
+      },
+      "-L77p9LMyCHpoOxeZGbg": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 47.61396999999999,
+          "Longitude": -117.1463075
+        },
+        "Metadata": {
+          "Id": 0.10634440645615229,
+          "Timestamp": 1520566576700
+        },
+        "User_Information": {
+          "Email": "joshua.suazo@gmail.com"
+        },
+        "User_Location": {
+          "City": "Spokane Valley",
+          "Country": "US",
+          "Zip_Postal_Code": "99016"
+        }
+      },
+      "-L7AJ-lxbFcgJWzabw-A": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 41.9720786,
+          "Longitude": -87.7517295
+        },
+        "Metadata": {
+          "Id": 0.3446236547457113,
+          "Timestamp": 1520608218459
+        },
+        "User_Information": {
+          "Email": "davidroman@linux.com"
+        },
+        "User_Location": {
+          "City": "Chicago",
+          "Country": "US",
+          "Zip_Postal_Code": "60630"
+        }
+      },
+      "-L7DLXBrXcBU0YHNYfKh": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 39.9350642,
+          "Longitude": -75.1516194
+        },
+        "Metadata": {
+          "Id": 0.2534726430535863,
+          "Timestamp": 1520659211279
+        },
+        "User_Information": {
+          "Email": "changes@gmail.com"
+        },
+        "User_Location": {
+          "City": "Philadelphia",
+          "Country": "US",
+          "Zip_Postal_Code": "19147"
+        }
+      },
+      "-L7QgkNTmqNflqtKfxmG": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 38.9451658,
+          "Longitude": -77.0622028
+        },
+        "Metadata": {
+          "Id": 0.5379891823503524,
+          "Timestamp": 1520883140286
+        },
+        "User_Information": {
+          "Email": "l@subtrees.com"
+        },
+        "User_Location": {
+          "City": "Washington, DC",
+          "Country": "US",
+          "Zip_Postal_Code": "20008"
+        }
+      },
+      "-L7QgshiS3KbkiEsOgT4": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 38.9451658,
+          "Longitude": -77.0622028
+        },
+        "Metadata": {
+          "Id": 0.27693418990012875,
+          "Timestamp": 1520883174279
+        },
+        "User_Information": {
+          "Email": "l@subtrees.com"
+        },
+        "User_Location": {
+          "City": "Washington, DC",
+          "Country": "US",
+          "Zip_Postal_Code": "20008"
+        }
+      },
+      "-L7UdIs9d2XLYhJueAyx": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 35.1660032,
+          "Longitude": -80.7934798
+        },
+        "Metadata": {
+          "Id": 0.7156145159961744,
+          "Timestamp": 1520949346613
+        },
+        "User_Information": {
+          "Email": "osengaa10@icloud.com"
+        },
+        "User_Location": {
+          "City": "Charlotte",
+          "Country": "US",
+          "Zip_Postal_Code": "28211"
+        }
+      },
+      "-L7apWQBcfbr0gwaPMgw": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 47.2529105,
+          "Longitude": -122.4417426
+        },
+        "Metadata": {
+          "Id": 0.4287142640172492,
+          "Timestamp": 1521069987694
+        },
+        "User_Information": {
+          "Email": "jediknight36@protonmail.c"
+        },
+        "User_Location": {
+          "City": "Tacoma",
+          "Country": "US",
+          "Zip_Postal_Code": "98402"
+        }
+      },
+      "-L7apn_lZLuSCm9Q-pup": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 47.2529105,
+          "Longitude": -122.4417426
+        },
+        "Metadata": {
+          "Id": 0.4335094366552259,
+          "Timestamp": 1521070061965
+        },
+        "User_Information": {
+          "Email": "bivey84@gmail.com"
+        },
+        "User_Location": {
+          "City": "Tacoma",
+          "Country": "US",
+          "Zip_Postal_Code": "98402"
+        }
+      },
+      "-L7atbHA3DeJRtdXx80K": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 40.7732937,
+          "Longitude": -73.9286341
+        },
+        "Metadata": {
+          "Id": 0.6290856898670847,
+          "Timestamp": 1521071060226
+        },
+        "User_Information": {
+          "Email": "kyoste@gmail.com"
+        },
+        "User_Location": {
+          "City": "Astoria",
+          "Country": "US",
+          "Zip_Postal_Code": "11102"
+        }
+      },
+      "-L7c8BYRZ_v-qZlatvnS": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 41.1935626,
+          "Longitude": -73.2470486
+        },
+        "Metadata": {
+          "Id": 0.2100376874509653,
+          "Timestamp": 1521091925064
+        },
+        "User_Information": {
+          "Email": "adammsafi@gmail.com"
+        },
+        "User_Location": {
+          "City": "Fairfield",
+          "Country": "US",
+          "Zip_Postal_Code": "06825"
+        }
+      },
+      "-L7dR4NL4gZMYMxIxSa5": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 42.5159385,
+          "Longitude": -83.53900019999999
+        },
+        "Metadata": {
+          "Id": 0.8383776797945732,
+          "Timestamp": 1521113650728
+        },
+        "User_Information": {
+          "Email": "justin.hodgson@gmail.com"
+        },
+        "User_Location": {
+          "City": "Wixom",
+          "Country": "US",
+          "Zip_Postal_Code": "48393"
+        }
+      },
+      "-L7gPb4Tz-ahg2AW6EsH": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 37.2260616,
+          "Longitude": -121.9302449
+        },
+        "Metadata": {
+          "Id": 0.8537235678900201,
+          "Timestamp": 1521163596296
+        },
+        "User_Information": {
+          "Email": "hibye5769@gmail.com"
+        },
+        "User_Location": {
+          "City": "Los Gatos",
+          "Country": "US",
+          "Zip_Postal_Code": "95032"
+        }
+      },
+      "-L7qOAQ7XSYML5f8CfcC": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 45.8590111,
+          "Longitude": -122.8158185
+        },
+        "Metadata": {
+          "Id": 0.9439439777645466,
+          "Timestamp": 1521330998525
+        },
+        "User_Information": {
+          "Email": "Ronald@Bynoe.us"
+        },
+        "User_Location": {
+          "City": "Saint Helens",
+          "Country": "US",
+          "Zip_Postal_Code": "97051"
+        }
+      },
+      "-L7wsyIsfloqMM_m8vyk": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 47.5412021,
+          "Longitude": -122.2675626
+        },
+        "Metadata": {
+          "Id": 0.9297233680369585,
+          "Timestamp": 1521439991226
+        },
+        "User_Information": {
+          "Email": "busmale@gmail.com"
+        },
+        "User_Location": {
+          "City": "Seattle",
+          "Country": "US",
+          "Zip_Postal_Code": "98118"
+        }
+      },
+      "-L84HY9pfmyjVaORN1E8": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 42.9980102,
+          "Longitude": -88.0460894
+        },
+        "Metadata": {
+          "Id": 0.20805867511516807,
+          "Timestamp": 1521580914367
+        },
+        "User_Information": {
+          "Email": "tevert2@gmail.com"
+        },
+        "User_Location": {
+          "City": "Milwaukee",
+          "Country": "US",
+          "Zip_Postal_Code": "53227"
+        }
+      },
+      "-L8IyTWgEh2q6IgE4p6x": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 40.6986772,
+          "Longitude": -73.9859414
+        },
+        "Metadata": {
+          "Id": 0.22836261442779016,
+          "Timestamp": 1521827309874
+        },
+        "User_Information": {
+          "Email": "deconsuper99@gmail.com"
+        },
+        "User_Location": {
+          "City": "Brooklyn",
+          "Country": "US",
+          "Zip_Postal_Code": "11201"
+        }
+      },
+      "-L8KBUtYeh5HY2EJRfkX": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 37.7929789,
+          "Longitude": -122.4212424
+        },
+        "Metadata": {
+          "Id": 0.7270592576860109,
+          "Timestamp": 1521847762685
+        },
+        "User_Information": {
+          "Email": "mrlokomot@gmail.com"
+        },
+        "User_Location": {
+          "City": "san francisco",
+          "Country": "US",
+          "Zip_Postal_Code": "94109"
+        }
+      },
+      "-L8Kp8kLCZbwQwwHEvu1": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 32.440875,
+          "Longitude": -93.7892328
+        },
+        "Metadata": {
+          "Id": 0.663047874910867,
+          "Timestamp": 1521858419878
+        },
+        "User_Information": {
+          "Email": "derrickclaville17@gmail.c"
+        },
+        "User_Location": {
+          "City": "Shreveport LA",
+          "Country": "US",
+          "Zip_Postal_Code": "71108"
+        }
+      },
+      "-L8KpbcNhebr0ztnXuu7": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 32.440875,
+          "Longitude": -93.7892328
+        },
+        "Metadata": {
+          "Id": 0.6267811245610997,
+          "Timestamp": 1521858542119
+        },
+        "User_Information": {
+          "Email": "derrickclaville17@gmail.c"
+        },
+        "User_Location": {
+          "City": "Shreveport LA",
+          "Country": "US",
+          "Zip_Postal_Code": "71108"
+        }
+      },
+      "-L8KqfS35R8FF_TQhx33": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 32.440875,
+          "Longitude": -93.7892328
+        },
+        "Metadata": {
+          "Id": 0.6170384185101239,
+          "Timestamp": 1521858819923
+        },
+        "User_Information": {
+          "Email": "derrickclaville17@gmail.c"
+        },
+        "User_Location": {
+          "City": "Shreveport LA",
+          "Country": "US",
+          "Zip_Postal_Code": "71108"
+        }
+      },
+      "-L8OQQO5oenUW57NuqDB": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 38.5950619,
+          "Longitude": -90.2291565
+        },
+        "Metadata": {
+          "Id": 0.13343621324123256,
+          "Timestamp": 1521918787167
+        },
+        "User_Information": {
+          "Email": "baslisks@gmail.com"
+        },
+        "User_Location": {
+          "City": "St Louis",
+          "Country": "US",
+          "Zip_Postal_Code": "63118"
+        }
+      },
+      "-L8OcosezI5-AZlhpp8J": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 33.2013734,
+          "Longitude": -117.2529145
+        },
+        "Metadata": {
+          "Id": 0.22720578682443549,
+          "Timestamp": 1521922298037
+        },
+        "User_Information": {
+          "Email": "shellbryan@ymail.com"
+        },
+        "User_Location": {
+          "City": "Vista",
+          "Country": "US",
+          "Zip_Postal_Code": "92083"
+        }
+      },
+      "-L8SpNvf3iLOaB7MrlBg": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 34.0796167,
+          "Longitude": -118.2585096
+        },
+        "Metadata": {
+          "Id": 0.9440199843390877,
+          "Timestamp": 1521992699640
+        },
+        "User_Information": {
+          "Email": "altheamesh@vasandani.me"
+        },
+        "User_Location": {
+          "City": "Los Angeles",
+          "Country": "US",
+          "Zip_Postal_Code": "90026"
+        }
+      },
+      "-L8T-87ZnvEdUk55MGXH": {
+        "Active": false,
+        "GPS_Coordinates": {
+          "Latitude": 30.4065868,
+          "Longitude": -87.6835974
+        },
+        "Metadata": {
+          "Id": 0.2705042656621277,
+          "Timestamp": 1521995518817
+        },
+        "User_Information": {
+          "Email": "Aron10609@yahoo.com"
+        },
+        "User_Location": {
+          "City": "Foley",
+          "Country": "US",
+          "Zip_Postal_Code": "36535"
+        }
+      }
+    }
+  },
+  "Markers": {
+    "-L6O8TfwglukbFEFDyVW": {
+      "Active": true,
+      "GPS_Coordinates": {
+        "Latitude": 46.1012219,
+        "Longitude": -123.2067863
+      },
+      "Metadata": {
+        "Id": 0.2136472279347572,
+        "Timestamp": 1519766602663
+      }
+    },
+    "-L6O8tcj_PFTaWlAMXHF": {
+      "Active": true,
+      "GPS_Coordinates": {
+        "Latitude": -26.733333,
+        "Longitude": 152.966667
+      },
+      "Metadata": {
+        "Id": 0.8955845314969721,
+        "Timestamp": 1519766708235
+      }
+    },
+    "-L6O96zQBOpPOW8DE-MK": {
+      "Active": true,
+      "GPS_Coordinates": {
+        "Latitude": 37.2358078,
+        "Longitude": -121.9623751
+      },
+      "Metadata": {
+        "Id": 0.9651728798693986,
+        "Timestamp": 1519766767031
+      }
+    },
+    "-L6O9eIQ2e4kxpNWfj7i": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 37.7485824,
+        "Longitude": -122.4184108
+      },
+      "Metadata": {
+        "Id": 0.33374302690991065,
+        "Timestamp": 1519766910194
+      }
+    },
+    "-L6OD5MiGzt6O4cYRCUv": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": -37.581111,
+        "Longitude": 144.713889
+      },
+      "Metadata": {
+        "Id": 0.0473305727041744,
+        "Timestamp": 1519767808872
+      }
+    },
+    "-L6ODL6KOMvvLkOJCEPR": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 37.8683209,
+        "Longitude": -122.2703955
+      },
+      "Metadata": {
+        "Id": 0.149502252747574,
+        "Timestamp": 1519767873358
+      }
+    },
+    "-L6OtSpSC4r_TBaKTZ_Y": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 42.1751002,
+        "Longitude": -70.9494899
+      },
+      "Metadata": {
+        "Id": 0.811804394150117,
+        "Timestamp": 1519779176059
+      }
+    },
+    "-L6PFZcxoxIKToMaFQpX": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 29.4595699,
+        "Longitude": -98.49522280000001
+      },
+      "Metadata": {
+        "Id": 0.45514641306574743,
+        "Timestamp": 1519785233060
+      }
+    },
+    "-L6Q69Pawn40S_KjRiDK": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 32.97602940000001,
+        "Longitude": -96.7386946
+      },
+      "Metadata": {
+        "Id": 0.19476511968220045,
+        "Timestamp": 1519799543563
+      }
+    },
+    "-L6QBCKopAzgtWUbLZ9R": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 47.2150945,
+        "Longitude": -123.1007066
+      },
+      "Metadata": {
+        "Id": 0.9437269347650918,
+        "Timestamp": 1519800866268
+      }
+    },
+    "-L6R3OOASI4NVMst-8Uu": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": -34.2800883,
+        "Longitude": 146.0455313
+      },
+      "Metadata": {
+        "Id": 0.9818564431160282,
+        "Timestamp": 1519815595757
+      }
+    },
+    "-L6RhwVy3oYPCqKhagwu": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 34.2032357,
+        "Longitude": 108.9067855
+      },
+      "Metadata": {
+        "Id": 0.30719500262833654,
+        "Timestamp": 1519826487560
+      }
+    },
+    "-L6Rs9xJIQSkBA-lKnKC": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 30.4559313,
+        "Longitude": 106.6331999
+      },
+      "Metadata": {
+        "Id": 0.9378602337848014,
+        "Timestamp": 1519829168157
+      }
+    },
+    "-L6WFKFORzjlkZ2aJX3C": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": -33.72136,
+        "Longitude": 151.16844
+      },
+      "Metadata": {
+        "Id": 0.21253433617716855,
+        "Timestamp": 1519902610559
+      }
+    },
+    "-L6WIQyETm4N0TYqhhrb": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 41.5789778,
+        "Longitude": 2.5049414
+      },
+      "Metadata": {
+        "Id": 0.8668540983146908,
+        "Timestamp": 1519903424499
+      }
+    },
+    "-L6WXel5FpbTvH_8-t4o": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 52.290557,
+        "Longitude": -1.540765
+      },
+      "Metadata": {
+        "Id": 0.7843113718724826,
+        "Timestamp": 1519907417258
+      }
+    },
+    "-L6W_L8ebmkW1vx2kGDQ": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": -34.9033293,
+        "Longitude": 138.571263
+      },
+      "Metadata": {
+        "Id": 0.043920774198034085,
+        "Timestamp": 1519908119255
+      }
+    },
+    "-L6Wvyzg_D5TsZlf9u_g": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": -19.7270406,
+        "Longitude": -50.265662
+      },
+      "Metadata": {
+        "Id": 0.8889292668205384,
+        "Timestamp": 1519914053617
+      }
+    },
+    "-L6XV4iJGI9NPrlDBdfS": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 53.4509261,
+        "Longitude": -113.5289593
+      },
+      "Metadata": {
+        "Id": 0.8471932808113549,
+        "Timestamp": 1519923518457
+      }
+    },
+    "-L6XY8RtBdKEmV7t5g4Z": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 53.4629062,
+        "Longitude": -113.4412191
+      },
+      "Metadata": {
+        "Id": 0.2687749185063941,
+        "Timestamp": 1519924320162
+      }
+    },
+    "-L6YcyJewRpb4dVxZMcW": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 47.6600087,
+        "Longitude": -122.3425575
+      },
+      "Metadata": {
+        "Id": 0.9253298491789692,
+        "Timestamp": 1519942624560
+      }
+    },
+    "-L6Yd7KG2niGHDc89TeX": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 37.2295733,
+        "Longitude": -80.4139393
+      },
+      "Metadata": {
+        "Id": 0.19111138156874086,
+        "Timestamp": 1519942665556
+      }
+    },
+    "-L6YeSeMcPEsbo4GgpV2": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 40.6385229,
+        "Longitude": -74.0153231
+      },
+      "Metadata": {
+        "Id": 0.06991773359529208,
+        "Timestamp": 1519943015066
+      }
+    },
+    "-L6YikiusB--zrhl3PDk": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 39.7845048,
+        "Longitude": -104.9797753
+      },
+      "Metadata": {
+        "Id": 0.6428228996817884,
+        "Timestamp": 1519944141758
+      }
+    },
+    "-L6YmnAXQIJOsgw2XFj9": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 42.4349152,
+        "Longitude": -83.15417959999999
+      },
+      "Metadata": {
+        "Id": 0.8113839713646607,
+        "Timestamp": 1519945200359
+      }
+    },
+    "-L6Yr7Y441iLzbgo4PNx": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 33.6805008,
+        "Longitude": -96.7279918
+      },
+      "Metadata": {
+        "Id": 0.04325407219505739,
+        "Timestamp": 1519946336457
+      }
+    },
+    "-L6Z5u8CHqocjg-vRYva": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 33.4525494,
+        "Longitude": -111.7674282
+      },
+      "Metadata": {
+        "Id": 0.4265196686808197,
+        "Timestamp": 1519950472259
+      }
+    },
+    "-L6ZCNdHt9vBUdKicIee": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 42.36475590000001,
+        "Longitude": -71.1032591
+      },
+      "Metadata": {
+        "Id": 0.9738642743084822,
+        "Timestamp": 1519952169756
+      }
+    },
+    "-L6ZFu7Y4mxiCNEi8DkO": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 35.5692059,
+        "Longitude": -82.6159271
+      },
+      "Metadata": {
+        "Id": 0.9401492611467905,
+        "Timestamp": 1519953093358
+      }
+    },
+    "-L6ZHvFb4CTp9ec9w9tF": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 32.8283259,
+        "Longitude": -117.255854
+      },
+      "Metadata": {
+        "Id": 0.035162192818988025,
+        "Timestamp": 1519953622256
+      }
+    },
+    "-L6ZZoK1ZOIEatzOf_5k": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 25.6697865,
+        "Longitude": -80.4660256
+      },
+      "Metadata": {
+        "Id": 0.7314024886933037,
+        "Timestamp": 1519958312358
+      }
+    },
+    "-L6ZegAhDafORuGZeENo": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 40.4258686,
+        "Longitude": -86.90806549999999
+      },
+      "Metadata": {
+        "Id": 0.7139941915670596,
+        "Timestamp": 1519959851862
+      }
+    },
+    "-L6ZomBWSbx4CnUKrUe0": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 40.8017214,
+        "Longitude": -83.51048209999999
+      },
+      "Metadata": {
+        "Id": 0.2915510421852243,
+        "Timestamp": 1519962497926
+      }
+    },
+    "-L6Zua2UNt5tZj5225Vq": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 40.1724007,
+        "Longitude": -105.1960795
+      },
+      "Metadata": {
+        "Id": 0.6880507565336531,
+        "Timestamp": 1519964021256
+      }
+    },
+    "-L6_IFLN3KfzehofHpER": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 32.5144969,
+        "Longitude": -117.0065804
+      },
+      "Metadata": {
+        "Id": 0.8082011923398815,
+        "Timestamp": 1519970485859
+      }
+    },
+    "-L6_LZ-FOuMIQmZ1ISx5": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 26.4588273,
+        "Longitude": -81.7622951
+      },
+      "Metadata": {
+        "Id": 0.014539777425460088,
+        "Timestamp": 1519971352857
+      }
+    },
+    "-L6_Vyw753UjXlg9tinL": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 49.2880423,
+        "Longitude": -123.1277957
+      },
+      "Metadata": {
+        "Id": 0.6802641603534425,
+        "Timestamp": 1519974084459
+      }
+    },
+    "-L6_ZPvTEH0v2GxfVN-M": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 45.5517361,
+        "Longitude": -122.5522483
+      },
+      "Metadata": {
+        "Id": 0.8385581922412833,
+        "Timestamp": 1519974985555
+      }
+    },
+    "-L6aedYIu9w2Q0WsCqXH": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 48.1987118,
+        "Longitude": -122.1251418
+      },
+      "Metadata": {
+        "Id": 0.4814170920878169,
+        "Timestamp": 1519993395658
+      }
+    },
+    "-L6ashk_dUMtH4oU2rul": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 40.6137658,
+        "Longitude": -74.0153231
+      },
+      "Metadata": {
+        "Id": 0.6653894213959282,
+        "Timestamp": 1519997082756
+      }
+    },
+    "-L6b-CON57T1kKWZGlGk": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 51.34491329999999,
+        "Longitude": 0.7539883
+      },
+      "Metadata": {
+        "Id": 0.48612226916299184,
+        "Timestamp": 1519999047261
+      }
+    },
+    "-L6b5PLf7TsH452aGGPf": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": -19.9153243,
+        "Longitude": -43.9403638
+      },
+      "Metadata": {
+        "Id": 0.613335931620536,
+        "Timestamp": 1520000673456
+      }
+    },
+    "-L6bNRxV-mBYsy7NL69d": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 40.7769059,
+        "Longitude": -73.9800645
+      },
+      "Metadata": {
+        "Id": 0.049909456878624914,
+        "Timestamp": 1520005402665
+      }
+    },
+    "-L6bSzCXbrbNeJ2T5tjm": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 43.640526,
+        "Longitude": -79.3949037
+      },
+      "Metadata": {
+        "Id": 0.23511115140656247,
+        "Timestamp": 1520006853762
+      }
+    },
+    "-L6bwhxA6mOpMeEUMfY5": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 30.0817231,
+        "Longitude": -97.8428927
+      },
+      "Metadata": {
+        "Id": 0.4647002541458054,
+        "Timestamp": 1520014909357
+      }
+    },
+    "-L6cDRV1EH7APBCLKHOJ": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 29.8265052,
+        "Longitude": -95.46729619999999
+      },
+      "Metadata": {
+        "Id": 0.648421166547555,
+        "Timestamp": 1520019556471
+      }
+    },
+    "-L6e1jGcfH_suzsNBwgS": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": -37.6146129,
+        "Longitude": 144.2415697
+      },
+      "Metadata": {
+        "Id": 0.8300889695751248,
+        "Timestamp": 1520050042396
+      }
+    },
+    "-L6fYk6z5mh8i5t8QM0-": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 45.0155422,
+        "Longitude": -93.37679759999999
+      },
+      "Metadata": {
+        "Id": 0.1446338345318452,
+        "Timestamp": 1520075473414
+      }
+    },
+    "-L6gaRMyz_Pr8jVv08A2": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 3.890468199999999,
+        "Longitude": 11.5049163
+      },
+      "Metadata": {
+        "Id": 0.9153563873966146,
+        "Timestamp": 1520092956359
+      }
+    },
+    "-L6gauZDZ0PBGdoru0h9": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 3.890468199999999,
+        "Longitude": 11.5049163
+      },
+      "Metadata": {
+        "Id": 0.39157888942931596,
+        "Timestamp": 1520093080055
+      }
+    },
+    "-L6gebJv-18XSlH9EV0d": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 5.5630028,
+        "Longitude": -0.2115709
+      },
+      "Metadata": {
+        "Id": 0.8234522730375253,
+        "Timestamp": 1520094049854
+      }
+    },
+    "-L6iKZ2fzK5s7Pqv4YBS": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 38.8454321,
+        "Longitude": -77.3209555
+      },
+      "Metadata": {
+        "Id": 0.7834577437607884,
+        "Timestamp": 1520122085957
+      }
+    },
+    "-L6iL12I1Jsb0A10siBj": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 38.8454321,
+        "Longitude": -77.3209555
+      },
+      "Metadata": {
+        "Id": 0.14446285844918227,
+        "Timestamp": 1520122208766
+      }
+    },
+    "-L6iLD9m4YiSjA6ZJ_V9": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 38.8454321,
+        "Longitude": -77.3209555
+      },
+      "Metadata": {
+        "Id": 0.5286325997491808,
+        "Timestamp": 1520122258394
+      }
+    },
+    "-L6j1GOOr_fXsKd0Ts_6": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": -33.8847,
+        "Longitude": 151.1573
+      },
+      "Metadata": {
+        "Id": 0.5059933374180481,
+        "Timestamp": 1520133805759
+      }
+    },
+    "-L6jccTKj18pYFBaI6jT": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 48.4528364,
+        "Longitude": -123.3884071
+      },
+      "Metadata": {
+        "Id": 0.3699741329037405,
+        "Timestamp": 1520143861657
+      }
+    },
+    "-L6lI6iDJh16AUngOKvR": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": -9.4780123,
+        "Longitude": 147.1506542
+      },
+      "Metadata": {
+        "Id": 0.33524094622495815,
+        "Timestamp": 1520171777108
+      }
+    },
+    "-L6lI_TlbyU1CFNTemo0": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": -9.4780123,
+        "Longitude": 147.1506542
+      },
+      "Metadata": {
+        "Id": 0.782374143587635,
+        "Timestamp": 1520171899000
+      }
+    },
+    "-L6lUAws0GRCVpSH7hqo": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": -9.4780123,
+        "Longitude": 147.1506542
+      },
+      "Metadata": {
+        "Id": 0.36314486524854095,
+        "Timestamp": 1520174940159
+      }
+    },
+    "-L6luSXaP7Vae0uith9h": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 45.3560738,
+        "Longitude": -92.6335386
+      },
+      "Metadata": {
+        "Id": 0.8403588379537956,
+        "Timestamp": 1520182089993
+      }
+    },
+    "-L6lvC6A1tREiWz7zllD": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 40.6570587,
+        "Longitude": 140.8187887
+      },
+      "Metadata": {
+        "Id": 0.04627358479798582,
+        "Timestamp": 1520182284760
+      }
+    },
+    "-L6lxrN35AMFXlM1gOka": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 47.7542651,
+        "Longitude": -122.1634581
+      },
+      "Metadata": {
+        "Id": 0.3279700911801664,
+        "Timestamp": 1520182982160
+      }
+    },
+    "-L6mvL_6HZ5vdEQMgohP": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 40.071222,
+        "Longitude": -74.86488729999999
+      },
+      "Metadata": {
+        "Id": 0.28233919829068843,
+        "Timestamp": 1520199101358
+      }
+    },
+    "-L6nLCuVpFp5Z6lgeEJi": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 29.5100354,
+        "Longitude": -81.2188355
+      },
+      "Metadata": {
+        "Id": 0.0467457843748591,
+        "Timestamp": 1520206143355
+      }
+    },
+    "-L6nXubLmp_38KY5M9QW": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": -32.1810658,
+        "Longitude": -64.1233161
+      },
+      "Metadata": {
+        "Id": 0.37346394805397165,
+        "Timestamp": 1520209472159
+      }
+    },
+    "-L6suBP4WztQqIu26bSx": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 37.2707022,
+        "Longitude": -76.7074571
+      },
+      "Metadata": {
+        "Id": 0.5933280933904017,
+        "Timestamp": 1520299465324
+      }
+    },
+    "-L6tq3diS1s8BbMhHDWl": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 68.7560326,
+        "Longitude": 16.4873596
+      },
+      "Metadata": {
+        "Id": 0.7191887320897108,
+        "Timestamp": 1520315159892
+      }
+    },
+    "-L6vcM3BmBWh7f_hmRgo": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 52.3575036,
+        "Longitude": 4.8878745
+      },
+      "Metadata": {
+        "Id": 0.7242398834382715,
+        "Timestamp": 1520345117074
+      }
+    },
+    "-L72eR8dQ35VmQeuomvu": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 40.1017582,
+        "Longitude": -88.2753144
+      },
+      "Metadata": {
+        "Id": 0.3904204220067031,
+        "Timestamp": 1520479879963
+      }
+    },
+    "-L76ZlTOT1gCoCEXCQgF": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 47.6288591,
+        "Longitude": -122.3456919
+      },
+      "Metadata": {
+        "Id": 0.14745632980939516,
+        "Timestamp": 1520545503247
+      }
+    },
+    "-L76eVrdNH5USNos1Gvf": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 51.6987,
+        "Longitude": 0.8792563999999999
+      },
+      "Metadata": {
+        "Id": 0.5760577116079304,
+        "Timestamp": 1520547008003
+      }
+    },
+    "-L77FJHDyOFuc4EHxJAP": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 47.49930519999999,
+        "Longitude": -122.3658208
+      },
+      "Metadata": {
+        "Id": 0.43536580649419077,
+        "Timestamp": 1520556920650
+      }
+    },
+    "-L77Jw0WuNKg61tBk0fs": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 47.5412021,
+        "Longitude": -122.2675626
+      },
+      "Metadata": {
+        "Id": 0.4928650579475391,
+        "Timestamp": 1520558129404
+      }
+    },
+    "-L77n_IvnmIVorWQUfM2": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 47.6614244,
+        "Longitude": -122.2683743
+      },
+      "Metadata": {
+        "Id": 5.106406160448884e-5,
+        "Timestamp": 1520566163061
+      }
+    },
+    "-L77p9MR1bc5SD9xsV-P": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 47.61396999999999,
+        "Longitude": -117.1463075
+      },
+      "Metadata": {
+        "Id": 0.10634440645615229,
+        "Timestamp": 1520566576703
+      }
+    },
+    "-L791oxI5szEuEVyP-Ua": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 59.9236603,
+        "Longitude": 30.3301071
+      },
+      "Metadata": {
+        "Id": 0.4304526508175386,
+        "Timestamp": 1520586936334
+      }
+    },
+    "-L79KUuYpbcKn2MaZsVH": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 17.6997875,
+        "Longitude": 83.29608309999999
+      },
+      "Metadata": {
+        "Id": 0.31407454932678935,
+        "Timestamp": 1520591830704
+      }
+    },
+    "-L7AJ-m7PFsR7MSMkuWU": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 41.9720786,
+        "Longitude": -87.7517295
+      },
+      "Metadata": {
+        "Id": 0.3446236547457113,
+        "Timestamp": 1520608218461
+      }
+    },
+    "-L7DLXCznT84-rso7k7E": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 39.9350642,
+        "Longitude": -75.1516194
+      },
+      "Metadata": {
+        "Id": 0.2534726430535863,
+        "Timestamp": 1520659211281
+      }
+    },
+    "-L7GzGmJM1j0bwPVfvo8": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 52.4934006,
+        "Longitude": -1.9315715
+      },
+      "Metadata": {
+        "Id": 0.07644992741869339,
+        "Timestamp": 1520720223491
+      }
+    },
+    "-L7P5o5advscVq0nNHog": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 41.99670039999999,
+        "Longitude": 12.0973997
+      },
+      "Metadata": {
+        "Id": 0.556809512395366,
+        "Timestamp": 1520856419980
+      }
+    },
+    "-L7QgkNcQHO-9LsJ75IU": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 38.9451658,
+        "Longitude": -77.0622028
+      },
+      "Metadata": {
+        "Id": 0.5379891823503524,
+        "Timestamp": 1520883140288
+      }
+    },
+    "-L7QgshkhyaIeqw-JilX": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 38.9451658,
+        "Longitude": -77.0622028
+      },
+      "Metadata": {
+        "Id": 0.27693418990012875,
+        "Timestamp": 1520883174282
+      }
+    },
+    "-L7UdIsHKUEwJD25xTqO": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 35.1660032,
+        "Longitude": -80.7934798
+      },
+      "Metadata": {
+        "Id": 0.7156145159961744,
+        "Timestamp": 1520949346616
+      }
+    },
+    "-L7apWQKdV9Gp1al4qPQ": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 47.2529105,
+        "Longitude": -122.4417426
+      },
+      "Metadata": {
+        "Id": 0.4287142640172492,
+        "Timestamp": 1521069987696
+      }
+    },
+    "-L7apn_mC6TBNKuqNxRo": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 47.2529105,
+        "Longitude": -122.4417426
+      },
+      "Metadata": {
+        "Id": 0.4335094366552259,
+        "Timestamp": 1521070061967
+      }
+    },
+    "-L7atbIbl1MzmSATi93g": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 40.7732937,
+        "Longitude": -73.9286341
+      },
+      "Metadata": {
+        "Id": 0.6290856898670847,
+        "Timestamp": 1521071060230
+      }
+    },
+    "-L7c8BY_XGiD8fgaDGCZ": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 41.1935626,
+        "Longitude": -73.2470486
+      },
+      "Metadata": {
+        "Id": 0.2100376874509653,
+        "Timestamp": 1521091925066
+      }
+    },
+    "-L7dP9nY0cwXxE8GfRS2": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 55.826082,
+        "Longitude": -4.2871134
+      },
+      "Metadata": {
+        "Id": 0.7350478139457042,
+        "Timestamp": 1521113148800
+      }
+    },
+    "-L7dR4NOkhWYrxyNxsyx": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 42.5159385,
+        "Longitude": -83.53900019999999
+      },
+      "Metadata": {
+        "Id": 0.8383776797945732,
+        "Timestamp": 1521113650731
+      }
+    },
+    "-L7gPb4bK9yw2gs-NEwg": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 37.2260616,
+        "Longitude": -121.9302449
+      },
+      "Metadata": {
+        "Id": 0.8537235678900201,
+        "Timestamp": 1521163596299
+      }
+    },
+    "-L7m3G-eRIjzxhrZbIqK": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 49.3441012,
+        "Longitude": -123.0275402
+      },
+      "Metadata": {
+        "Id": 0.8545685626794759,
+        "Timestamp": 1521258402041
+      }
+    },
+    "-L7qOARV7Qwu2NV0L0V7": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 45.8590111,
+        "Longitude": -122.8158185
+      },
+      "Metadata": {
+        "Id": 0.9439439777645466,
+        "Timestamp": 1521330998528
+      }
+    },
+    "-L7wsyJ7HncdMwAecaay": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 47.5412021,
+        "Longitude": -122.2675626
+      },
+      "Metadata": {
+        "Id": 0.9297233680369585,
+        "Timestamp": 1521439991229
+      }
+    },
+    "-L7zpaE65Zt-SPyBkqLx": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 13.0140114,
+        "Longitude": 77.56576199999999
+      },
+      "Metadata": {
+        "Id": 0.6835755942595607,
+        "Timestamp": 1521489437819
+      }
+    },
+    "-L7zpyxMpki2iFAdcdNd": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 13.0140114,
+        "Longitude": 77.56576199999999
+      },
+      "Metadata": {
+        "Id": 0.8383295653355913,
+        "Timestamp": 1521489538927
+      }
+    },
+    "-L7zrWIKkPXM7ivZSx_r": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 10.0317483,
+        "Longitude": 76.30872819999999
+      },
+      "Metadata": {
+        "Id": 0.5829558968137665,
+        "Timestamp": 1521489941734
+      }
+    },
+    "-L82WfeCMoIg8M08k1T7": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": -23.5074298,
+        "Longitude": -46.6635268
+      },
+      "Metadata": {
+        "Id": 0.7856620064246655,
+        "Timestamp": 1521551326459
+      }
+    },
+    "-L84HYAB9PN6AjgSO_fd": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 42.9980102,
+        "Longitude": -88.0460894
+      },
+      "Metadata": {
+        "Id": 0.20805867511516807,
+        "Timestamp": 1521580914370
+      }
+    },
+    "-L87lSV21eEo_f7O54ik": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 59.3097514,
+        "Longitude": 18.1587119
+      },
+      "Metadata": {
+        "Id": 0.2752084734399234,
+        "Timestamp": 1521639348398
+      }
+    },
+    "-L8IyTX_-bCWZUhkUudQ": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 40.6986772,
+        "Longitude": -73.9859414
+      },
+      "Metadata": {
+        "Id": 0.22836261442779016,
+        "Timestamp": 1521827309877
+      }
+    },
+    "-L8KBUtfC05Be2Waugvj": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 37.7929789,
+        "Longitude": -122.4212424
+      },
+      "Metadata": {
+        "Id": 0.7270592576860109,
+        "Timestamp": 1521847762688
+      }
+    },
+    "-L8Kp8kXYhOQX5ipiqNC": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 32.440875,
+        "Longitude": -93.7892328
+      },
+      "Metadata": {
+        "Id": 0.663047874910867,
+        "Timestamp": 1521858419881
+      }
+    },
+    "-L8KpbcSNh5SueBstugM": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 32.440875,
+        "Longitude": -93.7892328
+      },
+      "Metadata": {
+        "Id": 0.6267811245610997,
+        "Timestamp": 1521858542222
+      }
+    },
+    "-L8KqfTYToEtZdG1Gv_p": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 32.440875,
+        "Longitude": -93.7892328
+      },
+      "Metadata": {
+        "Id": 0.6170384185101239,
+        "Timestamp": 1521858820020
+      }
+    },
+    "-L8OQQOGEDhlk_-OjFFX": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 38.5950619,
+        "Longitude": -90.2291565
+      },
+      "Metadata": {
+        "Id": 0.13343621324123256,
+        "Timestamp": 1521918787171
+      }
+    },
+    "-L8Ocosgpa59BxSY35jS": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 33.2013734,
+        "Longitude": -117.2529145
+      },
+      "Metadata": {
+        "Id": 0.22720578682443549,
+        "Timestamp": 1521922298116
+      }
+    },
+    "-L8QPXEAjkXCQqbDZPtk": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 29.5396973,
+        "Longitude": 106.5314247
+      },
+      "Metadata": {
+        "Id": 0.58578392598188,
+        "Timestamp": 1521952107164
+      }
+    },
+    "-L8Sfx78CsuLBJOlO0ED": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 43.8562458,
+        "Longitude": -79.4348739
+      },
+      "Metadata": {
+        "Id": 0.13961575511797952,
+        "Timestamp": 1521990226598
+      }
+    },
+    "-L8SpNvhqjQnQWEXVNcK": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 34.0796167,
+        "Longitude": -118.2585096
+      },
+      "Metadata": {
+        "Id": 0.9440199843390877,
+        "Timestamp": 1521992699643
+      }
+    },
+    "-L8T-87rSixiOP3zRQ07": {
+      "Active": false,
+      "GPS_Coordinates": {
+        "Latitude": 30.4065868,
+        "Longitude": -87.6835974
+      },
+      "Metadata": {
+        "Id": 0.2705042656621277,
+        "Timestamp": 1521995518820
+      }
+    }
+  }
+}
